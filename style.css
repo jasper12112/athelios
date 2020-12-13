@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    background-color: #343a40;
+}
+
+.inner{
+    color: white;
+    width: 75%;
+    margin: auto;
+}
+
+.pclassP{
+    color: white;
+    font-weight: 900;
+}
+
+.pclassPA{
+    width: 258px;
+    color: white;
+    font-weight: 900;
+}
+
+td{
+    color: white;
+    font-weight: 500;
+}
+
+table.centermee {
+    margin-left:auto; 
+    margin-right:auto;
+}
